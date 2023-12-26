@@ -1,0 +1,236 @@
+.Book-container{
+    background-color: rgb(13, 13, 22);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* padding: 150px; */
+}
+
+.book-a-container{
+    height: 100vh;
+    padding: 30px;
+    background-image: radial-gradient(rgb(67, 67, 237),rgb(29, 29, 132), rgb(28, 28, 62), rgb(3, 3, 3));
+    width: 100% !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-heading{
+    font-family: Kanit, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+.login-paragraph{
+    font-family: Kanit, sans-serif;
+    font-size: 15px;
+    color: white;
+    font-weight: none;
+}
+
+.login-button{
+    height: 34px;
+    width: 134px;
+    border: 0px;
+    border-radius: 16px;
+}
+
+
+.book-heading{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 500;
+    color: rgb(255,255,255);
+    font-family: Kanit, sans-serif;
+    margin-top: 0px;
+    line-height: 84px;
+    margin: 0px;
+}
+
+.hr-line{
+    width: 30%;
+    height: 3px;
+    background-color: rgb(57, 57, 241);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.book-para{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    color: rgb(255,255,255);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.sel-container{
+    background-color: white;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    border-radius: 12px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    height: 40%;
+    margin: 20px;
+    padding: 30px;
+}
+
+
+.mini-container{
+    border: 1px solid lightgray;
+    padding: 30px;
+    height: 40%;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.color22{
+    height: 34px !important;
+    color: white;
+}
+
+.color21{
+    height: 34px;
+    color: black;
+    margin: 0px;
+}
+
+.row30{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+
+.circle-btn{
+    background-color: rgb(15, 15, 205);
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bolder;
+    margin-right: 12px;
+}
+
+.cho-heading{
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(40,40,41);
+    line-height: 30px;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.cho-heading43{
+    font-size: 17px;
+    font-weight: 700;
+    color: rgb(40,40,41);
+    line-height: 20.4px;
+    margin-top: 200px !important;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.choose-con{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.select{
+   background-color: white;
+   color: black;
+   font-size: 16px;
+   font-family: "Roboto";
+   border-radius: 26px;
+   border: 1px solid none;
+   height: 62px !important;
+   font-weight: 500;
+   padding-left: 30px;
+   padding-right: 30px;
+   font-family: Montserrat, sans-serif;
+   text-align: center;
+}
+
+.row88{
+    display: flex;
+    flex-direction: row;
+}
+/*
+.text{
+    font-size: 19px;
+    font-weight: 600;
+    color: #535355;
+    margin: 0px;
+    padding: 0px;
+    margin-top: -283px !important;
+}
+
+.text56{
+    font-size: 19px;
+    font-weight: 600;
+    color: #535355;
+    margin: 0px;
+    padding: 0px;
+    margin-top: -283px !important;
+}*/
+
+.row3{
+    display: flex;
+    flex-direction: row;
+    margin-right: 370;
+}
+
+.row4{
+    display: flex;
+    flex-direction: row;
+    margin-left: 370px;
+}
+
+.mini-container2{
+    border: 1px solid lightgray;
+    padding: 20px;
+    height: 10%;
+    width: 100%;
+    border-radius: 30px;
+    margin: 18px;
+} 
+
+@media screen and (max-width:800px){
+    .book-heading{
+        font-size: 35px;
+    }
+}
+
+@media screen and (max-width:400px){
+    .book-heading{
+        margin-top: 40px;
+    }
+    .sel-container{
+        height: 40%;
+    }
+}

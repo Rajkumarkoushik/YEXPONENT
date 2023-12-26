@@ -1,0 +1,40 @@
+{
+    "slides": [
+        {
+          "cardName": "industries",
+          "cardIndexName": "industries",
+          "heading": "start track your business expenses",
+          "brief": "Are you ready to make your business more organized? Download Spend.In now!",
+          "buttonName": "Explore",
+          "buttonLink": "/",
+          "image": "assets/static-data-apis/block-05-progress-slider/media-files/industries.avif"
+        },
+        {
+          "cardName": "research & development",
+          "cardIndexName": "R&D",
+          "heading": "start track your business expenses",
+          "brief": "Are you ready to make your business more organized? Download Spend.In now!",
+          "buttonName": "Explore",
+          "buttonLink": "/",
+          "image": "assets/static-data-apis/block-05-progress-slider/media-files/r&d.avif"
+        },
+        {
+          "cardName": "consulting",
+          "cardIndexName": "consulting",
+          "heading": "start track your business expenses",
+          "brief": "Are you ready to make your business more organized? Download Spend.In now!",
+          "buttonName": "Explore",
+          "buttonLink": "/",
+          "image": "assets/static-data-apis/block-05-progress-slider/media-files/consulting.avif"
+        },
+        {
+          "cardName": "resources",
+          "cardIndexName": "resources",
+          "heading": "start track your business expenses",
+          "brief": "Are you ready to make your business more organized? Download Spend.In now!",
+          "buttonName": "Explore",
+          "buttonLink": "/",
+          "image": "assets/static-data-apis/block-05-progress-slider/media-files/resources.avif"
+        }
+      ]
+}

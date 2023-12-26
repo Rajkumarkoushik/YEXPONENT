@@ -1,0 +1,130 @@
+.bg{
+    background-color: rgb(25, 25, 222);
+}
+
+.bg-container33{
+    height: 400px;
+    width: 850px;
+    padding: 20px;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.left{
+    width:400px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
+.hrs-line{
+    height: 600px;
+    transition: 0.3s;
+    width: 3px;
+    color: #000000 !important;
+}
+
+.btn7{
+    background-color: transparent;
+    border: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px 30px;
+    font-size: 18px;
+    font-weight: 600;
+    transition: 0.3s;
+    color: #000000 !important;
+    cursor: pointer;
+}
+
+.vartical{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 3px solid grey;
+    padding: 16px 30px;
+    font-size: 18px;
+    font-weight: 600;
+    transition: 0.3s;
+    width: 300px;
+    color: #000000 !important;
+    cursor: pointer;
+    color: blue;
+}
+
+.vartical22{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 3px solid grey;
+    padding: 16px 30px;
+    font-size: 18px;
+    font-weight: 600;
+    transition: 0.3s;
+    height: 600px;
+    color: #000000 !important;
+    cursor: pointer;
+}
+
+.btn2{
+    background-color: rgb(39, 39, 239);
+    border: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 8px;
+    color: white;
+    width: 140px;
+    height: 36px;
+    border-radius: 16px;
+}
+
+.sub-part{
+    color: rgb(35, 35, 223);
+    font-size: 24px;
+    font-weight: 600;
+    transition: 0.3s;
+    color: #000000 !important;
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+.ser-con{
+    color: #000;
+    font-weight: 700;
+    line-height: 1.1;
+    font-size: 16px;
+    height: 170px;
+    width: 200px;
+    padding: 12px;
+}
+
+.img55{
+    height: 34px;
+    width: 34px;
+    margin-right: 12px;
+}
+
+.sub-head{
+    font-size: 20px;
+}
+
+.sub-para{
+    font-size: 14px;
+    line-height: 1.2;
+    color: #000;
+    margin-left: 32px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}

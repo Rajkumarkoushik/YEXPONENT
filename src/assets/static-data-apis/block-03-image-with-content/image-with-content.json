@@ -1,0 +1,34 @@
+{
+    "divisions": [
+        {
+            "head": "Technology’s generational moment with generative AI: A CIO and CTO guide",
+            "brief": "CIOs and CTOs can take nine actions to reimagine business and technology with generative AI.",
+            "imageUrl": "assets/static-data-apis/block-03-image-with-content/media-files/left.jpg",
+            "links": [
+                {
+                    "name": "Harness the power",
+                    "link": ""
+                },
+                {
+                    "name": "Explore more insights on digital",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "head": "Technology’s generational moment with generative AI: A CIO and CTO guide",
+            "brief": "CIOs and CTOs can take nine actions to reimagine business and technology with generative AI.",
+            "imageUrl": "assets/static-data-apis/block-03-image-with-content/media-files/left.jpg",
+            "links": [
+                {
+                    "name": "Harness the power",
+                    "link": ""
+                },
+                {
+                    "name": "Explore more insights on digital",
+                    "link": ""
+                }
+            ]
+        }
+    ]
+}

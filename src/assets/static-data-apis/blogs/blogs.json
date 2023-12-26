@@ -1,0 +1,854 @@
+[
+    {
+        "link":"/Services/Audit-&-Assurance/Overview",
+        "page_structure": "nav",
+        "pageData": {
+            "main_bg_img": "assets/static-data-apis/blogs/media-files/nav/overview/main-bg.jpg",
+            "main_head": "Overview",
+            "left_partition_links": {
+                "head": "Related Articles",
+                "links": [
+                    {
+                        "name": "Scheduling meetings",
+                        "link": "/"
+                    },
+                    {
+                        "name": "Changing your Virtual Background image",
+                        "link": "/"
+                    },
+                    {
+                        "name": "Zoom how-to video tutorials",
+                        "link": "/"
+                    }
+                ]
+            },
+            "description": [
+                {
+                    "paragraph": "Rapid changes in the <a href='' >aerospace and defense</a> industry are creating new opportunities for companies willing to innovate and reposition themselves for the future. BCG’s aerospace and defense consulting teams help companies adapt to these ever-evolving times.",
+                    "highlight": true
+                },
+                {
+                    "paragraph": "Today’s commercial <b>aerospace industry</b> is still grappling with the sharp decline in air travel due to the pandemic, which is weighing heavily on aircraft production and the civilian aerospace workforce. The defense industry, in contrast, has seen steady demand and even some new opportunities.",
+                    "highlight": false
+                },
+                {
+                    "paragraph": "For companies that operate in both segments, the challenge is to foster defense innovation, maintain operations, and strengthen their financial position to offset the declines in the commercial business.",
+                    "highlight": false
+                }
+            ],
+            "text_links": [
+                {
+                    "head": "Our Consulting Services for Aerospace and Defense",
+                    "links": [
+                        {
+                            "name": "Defense and Security",
+                            "link": "/Services/Audit-&-Assurance/Overview"
+                        },
+                        {
+                            "name": "Operations",
+                            "link": "Operations"
+                        },
+                        {
+                            "name": "Project-management",
+                            "link": "Project-management"
+                        },
+                        {
+                            "name": "Project Management",
+                            "link": "Defence-and-security"
+                        }
+                    ]
+                },
+                {
+                    "head": "Our Consulting Services for Aerospace and Defense",
+                    "links": [
+                        {
+                            "name": "Defense and Security",
+                            "link": "/Services/Audit-&-Assurance/Overview"
+                        },
+                        {
+                            "name": "Operations",
+                            "link": "Operations"
+                        },
+                        {
+                            "name": "Project-management",
+                            "link": "Project-management"
+                        },
+                        {
+                            "name": "Project Management",
+                            "link": "Defence-and-security"
+                        },
+                        {
+                            "name": "Project-management",
+                            "link": "Project-management"
+                        }
+                    ]
+                }
+            ],
+            "lists": [
+                {
+                    "head" : "How BCG Helps Aerospace and Defense Companies",
+                    "description": [
+                        {
+                            "para": "This new reality makes it vital for aerospace and defense companies to innovate. BCG helps businesses throughout the aerospace and defense industry:"
+                        },
+                        {
+                            "para": "This new reality makes it vital for aerospace and defense companies to innovate. BCG helps businesses throughout the aerospace and defense industry:"
+                        }
+                    ],
+                    "pointStyle": "disc",
+                    "points":[
+                        {
+                            "subPointStyle": "disc",
+                            "point": "<b>meeting</b> has a unique 9, 10, or <a href='https://www.youtube.com/watch?v=St2Gywjlwks'>11-digit number</a> called a meeting ID that will be required to join a Zoom meeting.",
+                            "subPoints": [
+                                {
+                                    "point": "this is a sub point"
+                                },
+                                {
+                                    "point": "this is a sub point"
+                                },
+                                {
+                                    "point": "this is a sub point"
+                                }
+                            ]
+                        },
+                        {
+                            "subPointStyle": "disc",
+                            "point": "<b>meeting</b> has a unique 9, 10, or <a href='https://www.youtube.com/watch?v=St2Gywjlwks'>11-digit number</a> called a meeting ID that will be required to join a Zoom meeting."
+                        },
+                        {
+                            "subPointStyle": "disc",
+                            "point": "<b>meeting</b> has a unique 9, 10, or <a href='https://www.youtube.com/watch?v=St2Gywjlwks'>11-digit number</a> called a meeting ID that will be required to join a Zoom meeting."
+                        },
+                        {
+                            "subPointStyle": "disc",
+                            "point": "<b>meeting</b> has a unique 9, 10, or <a href='https://www.youtube.com/watch?v=St2Gywjlwks'>11-digit number</a> called a meeting ID that will be required to join a Zoom meeting."
+                        }
+                        
+                    ]
+                }
+                
+            ],
+            "questions":[
+                {
+                    "question": "How to join a Zoom meeting on the desktop client",
+                    "dropdowns": [
+                        {
+                            "head": "Windows | macOS",
+                            "content": [
+                                {
+                                    "head": "Google Chrome",
+                                    "points":[
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                            
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        }
+                                        
+                                    ],
+                                    "description": [
+                                        {
+                                            "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a> "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "head": "Mozilla",
+                                    "points":[
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                            
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        }
+                                        
+                                    ],
+                                    "description": [
+                                        {
+                                            "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a> "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "paragraphs": [
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                },
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                }
+                            ]
+                        },
+                        {
+                            "head": "Windows | macOS",
+                            "content": [
+                                {
+                                    "head": "Google Chrome",
+                                    "points":[
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                            
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        }
+                                        
+                                    ],
+                                    "description": [
+                                        {
+                                            "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a> "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "paragraphs": [
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                },
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "question": "How to join a Zoom meeting on the desktop client",
+                    "dropdowns": [
+                        {
+                            "head": "Windows | macOS",
+                            "content": [
+                                {
+                                    "head": "Google Chrome",
+                                    "points":[
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                            
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        }
+                                        
+                                    ],
+                                    "description": [
+                                        {
+                                            "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a> "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "paragraphs": [
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                },
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                }
+                            ]
+                        },
+                        {
+                            "head": "Windows | macOS",
+                            "content": [
+                                {
+                                    "head": "Google Chrome",
+                                    "points":[
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                            
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "<b>How</b> to join a <a href='' >Zoom</a> meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        }
+                                        
+                                    ],
+                                    "description": [
+                                        {
+                                            "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a> "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "paragraphs": [
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                },
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "cardLinks": [
+                {
+                    "main_head": "Our Consulting Services for Aerospace and Defense",
+                    "links": [
+                        {
+                            "image": "assets/static-data-apis/blogs/media-files/nav/overview/card-links/img.jpg",
+                            "linkName": "Transforming Defense Agencies for a More Complex World",
+                            "brief": "With the right approach to change, defense organizations can become more nimble and better equipped to respond to new threats.",
+                            "link": ""
+                        },
+                        {
+                            "image": "assets/static-data-apis/blogs/media-files/nav/overview/card-links/img.jpg",
+                            "linkName": "Transforming Defense Agencies for a More Complex World",
+                            "brief": "With the right approach to change, defense organizations can become more nimble and better equipped to respond to new threats.",
+                            "link": ""
+                        },
+                        {
+                            "image": "assets/static-data-apis/blogs/media-files/nav/overview/card-links/img.jpg",
+                            "linkName": "Transforming Defense Agencies for a More Complex World",
+                            "brief": "With the right approach to change, defense organizations can become more nimble and better equipped to respond to new threats.",
+                            "link": ""
+                        },
+                        {
+                            "image": "assets/static-data-apis/blogs/media-files/nav/overview/card-links/img.jpg",
+                            "linkName": "Transforming Defense Agencies for a More Complex World",
+                            "brief": "With the right approach to change, defense organizations can become more nimble and better equipped to respond to new threats.",
+                            "link": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "link":"/Services/Audit-&-Assurance/Assurance",
+        "page_structure": "blog",
+        "pageData": {
+            "main_bg_img": "assets/static-data-apis/blogs/media-files/blog/assurance/main-bg.jpg",
+            "main_head": "Joining a Zoom meeting",
+            "left_partition_links": {
+                "head": "Related Articles",
+                "links": [
+                    {
+                        "name": "Scheduling meetings",
+                        "link": "/"
+                    },
+                    {
+                        "name": "Changing your Virtual Background image",
+                        "link": "/"
+                    },
+                    {
+                        "name": "Zoom how-to video tutorials",
+                        "link": "/"
+                    }
+                ]
+            },
+            "description": [
+                {
+                    "paragraph": "You can join an online meeting through an email invite, an instant messaging invite, from the <a href=''>browser</a>, from the Zoom desktop and mobile <a href=''>application</a>, from a landline or mobile phone, or with an H.323 or SIP device."
+                },
+                {
+                    "paragraph": "You can join an online meeting through an email invite, an instant messaging invite, from the <a href=''>browser</a>, from the Zoom desktop and mobile <a href=''>application</a>, from a landline or mobile phone, or with an H.323 or SIP device."
+                },
+                {
+                    "paragraph": "You can join an online meeting through an email invite, an instant messaging invite, from the <a href=''>browser</a>, from the Zoom desktop and mobile <a href=''>application</a>, from a landline or mobile phone, or with an H.323 or SIP device."
+                }
+            ],
+            "lists": [
+                {
+                    "head" : "Notes:",
+                    "headStyle": "normal",
+                    "pointStyle": "disc",
+                    "points":[
+                        {
+                            "subPointStyle": "disc",
+                            "point": "If the join link is in the in-meeting/in-webinar chat, the desktop and android device shows the leave and join options. The iOS device shows an open link or",
+                            "subPoints": [
+                                {
+                                    "point": "this is a <a href=''>sub point<a>"
+                                },
+                                {
+                                    "point": "this is a <b>sub point</b>"
+                                },
+                                {
+                                    "point": "this is a sub point"
+                                }
+                            ]
+                        },
+                        {
+                            "subPointStyle": "disc",
+                            "point": "If you are already in an existing meeting and click a join link, it will prompt you to leave and join the other meeting."
+                        },
+                        {
+                            "subPointStyle": "disc",
+                            "point": "If you are already in an existing meeting and click a join link, it will prompt you to leave and join the other meeting."
+                        },
+                        {
+                            "subPointStyle": "disc",
+                            "point": "If you are already in an existing meeting and click a join link, it will prompt you to leave and join the other meeting."
+                        }
+                        
+                    ]
+                },
+                {
+                    "head" : "This article covers:",
+                    "headStyle": "",
+                    "pointStyle": "disc",
+                    "points": [
+                        {
+                            "subPointStyle": "disc",
+                            "point": "<a href=''>How to join a Zoom meeting on the desktop client</a>",
+                            "subPoints": [
+                                {
+                                    "point": "<a href=''>Windows | macOS</a>"
+                                },
+                                {
+                                    "point": "<a href=''>Linux</a>"
+                                }
+                            ]
+                        },
+                        {
+                            "subPointStyle": "disc",
+                            "point": "<a href=''>How to join a Zoom meeting on the desktop client</a>",
+                            "subPoints": [
+                                {
+                                    "point": "<a href=''>Windows | macOS</a>"
+                                },
+                                {
+                                    "point": "<a href=''>Linux</a>"
+                                }
+                            ]
+                        },
+                        {
+                            "subPointStyle": "disc",
+                            "point": "<a href=''>How to join a Zoom meeting on the desktop client</a>",
+                            "subPoints": [
+                                {
+                                    "point": "<a href=''>Windows | macOS</a>"
+                                },
+                                {
+                                    "point": "<a href=''>Linux</a>"
+                                }
+                            ]
+                        },
+                        {
+                            "subPointStyle": "disc",
+                            "point": "<a href=''>How to join a Zoom meeting on the desktop client</a>",
+                            "subPoints": [
+                                {
+                                    "point": "<a href=''>Windows | macOS</a>"
+                                },
+                                {
+                                    "point": "<a href=''>Linux</a>"
+                                }
+                            ]
+                        }
+                        
+                    ]
+                },
+                {
+                    "head" : "Prerequisites for joining a virtual meeting",
+                    "headStyle": "bold",
+                    "pointStyle": "disc",
+                    "points": [
+                        {
+                            "point": "Each meeting has a unique 9, 10, or 11-digit number called a <a href=''>meeting ID</a> that will be required to join a Zoom meeting."
+                        },
+                        {
+                            "point": "If you are joining by telephone, you will need the <a href=''>teleconferencing number</a> provided in the invite."
+                        },
+                        {
+                            "point": "<a href=''><b>Show a 'Join from your browser' link</b></a> enabled"
+                        }
+                    ]
+                }
+            ],
+            "questions":[
+                {
+                    "question": "How to join a Zoom meeting on the desktop client",
+                    "dropdowns": [
+                        {
+                            "head": "Windows | macOS",
+                            "content": [
+                                {
+                                    "head": "Google Chrome",
+                                    "points":[
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                            
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        }
+                                        
+                                    ],
+                                    "description": [
+                                        {
+                                            "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a> "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "paragraphs": [
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                },
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                }
+                            ]
+                        },
+                        {
+                            "head": "Windows | macOS",
+                            "content": [
+                                {
+                                    "head": "Google Chrome",
+                                    "points":[
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                            
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        }
+                                        
+                                    ],
+                                    "description": [
+                                        {
+                                            "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a> "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "paragraphs": [
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                },
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "question": "How to join a Zoom meeting on the desktop client",
+                    "dropdowns": [
+                        {
+                            "head": "Windows | macOS",
+                            "content": [
+                                {
+                                    "head": "Google Chrome",
+                                    "points":[
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                            
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        }
+                                        
+                                    ],
+                                    "description": [
+                                        {
+                                            "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a> "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "paragraphs": [
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                },
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                }
+                            ]
+                        },
+                        {
+                            "head": "Windows | macOS",
+                            "content": [
+                                {
+                                    "head": "Google Chrome",
+                                    "points":[
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                            
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "How to join a Zoom meeting on the desktop client"
+                                        },
+                                        {
+                                            "subPointStyle": "disc",
+                                            "point": "<b>How</b> to join a <a href='' >Zoom</a> meeting on the desktop client",
+                                            "subPoints": [
+                                                {
+                                                    "point": "Windows | macOS"
+                                                },
+                                                {
+                                                    "point": "Linux"
+                                                }
+                                            ]
+                                        }
+                                        
+                                    ],
+                                    "description": [
+                                        {
+                                            "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a> "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "paragraphs": [
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                },
+                                {
+                                    "para": "Alternatively, you can join the meeting without <b>downloading or opening</b> the Zoom app, by <a href=''>downloading or opening</a>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "lists_2":[
+                {
+                    "head": "Join a Zoom meeting without downloading the app",
+                    "headStyle": "main",
+                    "description": [
+                        {
+                            "para": "<b>Note:</b> The meeting host must <a href=''>enable <b>Show a 'Join from your browser'</b> link</a> for their participants."
+                        }
+                    ]
+                },
+                {
+                    "head": "Join a Zoom meeting without downloading the app",
+                    "headStyle": "sub",
+                    "description": [
+                        {
+                            "para": "<b>Note:</b> The meeting host must <a href=''>enable <b>Show a 'Join from your browser'</b> link</a> for their participants."
+                        }
+                    ],
+                    "pointStyle": "number",
+                    "points":[
+                        {
+                            "subPointStyle": "none",
+                            "point": "Locate the meeting invite link from your email or calendar invitation.",
+                            "subPoints": [
+                                {
+                                    "point": "On your web browser, a pop-up window will prompt you to open or download the application."
+                                }
+                            ]
+                        },
+                        {
+                            "point": "Click the <a href=''>join link</a> to join the meeting."
+                        },
+                        {
+                            "point": "In the pop-up window, click <b>Cancel</b>."
+                        }
+                    ]
+                }
+            ],
+            "review": {
+                "question": "Was this helpful?",
+                "buttonNames": {
+                    "yes": "Yes",
+                    "no": "No"
+                },
+                "message": "Thank you"
+            },
+            "card" :{
+                "head": "Community",
+                "brief": "Join the <b>250K+</b> other members in the Zoom Community! Login with your Zoom account credentials and start collaborating.",
+                "buttonName": "Start collaborating",
+                "link": "/"
+            }
+        }
+    }
+]

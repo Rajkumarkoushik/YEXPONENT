@@ -1,0 +1,52 @@
+{
+    "ribbon": [
+        {
+            "number": "04",
+            "plus": false,
+            "line_1": {
+                "visible": false,
+                "line": ""
+            },
+            "line_2": {
+                "visible": true,
+                "line": "Locations"
+            }
+        },
+        {
+            "number": "20",
+            "plus": true,
+            "line_1": {
+                "visible": false,
+                "line": ""
+            },
+            "line_2": {
+                "visible": true,
+                "line": "Clients"
+            }
+        },
+        {
+            "number": "02",
+            "plus": false,
+            "line_1": {
+                "visible": true,
+                "line": "Years"
+            },
+            "line_2": {
+                "visible": true,
+                "line": "Avg Client Tenure"
+            }
+        },
+        {
+            "number": "50",
+            "plus": true,
+            "line_1": {
+                "visible": false,
+                "line": ""
+            },
+            "line_2": {
+                "visible": true,
+                "line": "Employees"
+            }
+        }
+    ]
+}

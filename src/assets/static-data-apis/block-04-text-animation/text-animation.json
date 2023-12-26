@@ -1,0 +1,9 @@
+{
+    "head": "What is Lorem Ipsum?",
+    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "backgroundImage": "assets/static-data-apis//block-04-text-animation/media-files/background.png",
+    "button": {
+        "visible": true,
+        "buttonName" : "Explore"
+    }
+}

@@ -1,0 +1,87 @@
+.login-container34{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left !important;
+}
+.form-control-text{
+    border-color: transparent !important;
+    border: 1px solid gray;
+}
+
+.form-control-text-input{
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 8px;
+    width:100%;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: white;
+    padding-left: 12px;
+    height: 45px;
+}
+
+.product-mana{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: white;
+    font-weight: 600;
+    margin: 0px;
+    margin-left: 12px;
+}
+
+.show{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.end-container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-top: -100px;
+    margin-right: 50px;
+}
+
+.book-a-container2{
+    height: 100vh;
+    width: 100% !important;
+}
+
+.color34{
+    color: white;
+    font-size: 28px;
+    background-color: gray;
+    margin-right: 3px;
+}
+
+.login-button2{
+    height: 34px;
+    width: 80px;
+    border: 0px;
+    border-radius: 6px;
+    margin-left: 12px;
+}
+
+.form-control-text-input2{
+    background-color: rgb(140, 140, 249);
+    border: 1px solid white;
+    border-radius: 8px;
+    width:100%;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: white;
+    padding-left: 12px;
+    height: 45px;
+}

@@ -1,0 +1,12 @@
+{
+    "line_1": "Quantum Journey Of Exponential Growth",
+    "line_2": "Fueled By Innovation And Powered By Yexponent",
+    "video": {
+        "video": true,
+        "videoUrl": "assets/static-data-apis/home-page-intro-block/media-files/background-video.mp4"
+    },
+    "image": {
+        "image": false,
+        "imageUrl": "assets/static-data-apis/home-page-intro-block/media-files/background-image.webp"
+    }
+}

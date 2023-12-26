@@ -1,0 +1,525 @@
+{
+    "categories": [
+        {
+            "link_head": "Industries",
+            "links" : [
+                {
+                    "name": "Automotive",
+                    "link": "Automotive"
+                },
+                {
+                    "name": "Construction and Engineering",
+                    "link": "Construction-and-Engineering"
+                },
+                {
+                    "name": "Education",
+                    "link": "Education"
+                },
+                {
+                    "name": "Financial Services",
+                    "link": "Financial-Services"
+                },
+                {
+                    "name": "Communications",
+                    "link": "Communications"
+                },
+                {
+                    "name": "Consumer Packaged Goods",
+                    "link": "Consumer-Packaged-Goods"
+                },
+                {
+                    "name": "Energy and Water",
+                    "link": "Energy-and-Water"
+                },
+                {
+                    "name": "Food and Beverage",
+                    "link": "Food-and-Beverage"
+                },
+                {
+                    "name": "Government",
+                    "link": "Government"
+                },
+                {
+                    "name": "High Technology",
+                    "link": "High-Technology"
+                },
+                {
+                    "name": "Industrial Manufacturing",
+                    "link": "Industrial-Manufacturing"
+                },
+                {
+                    "name": "Media and Entertainment",
+                    "link": "Media-and-Entertainment"
+                },
+                {
+                    "name": "Health",
+                    "link": "Health"
+                },
+                {
+                    "name": "Hospitality",
+                    "link": "Hospitality"
+                },
+                {
+                    "name": "Life Sciences",
+                    "link": "Life-Sciences"
+                },
+                {
+                    "name": "Oil and Gas",
+                    "link": "Oil-and-Gas"
+                },
+                {
+                    "name": "Professional Services",
+                    "link": "Professional-Services"
+                },
+                {
+                    "name": "Retail",
+                    "link": "Retail"
+                },
+                {
+                    "name": "Wholesale Distribution",
+                    "link": "Wholesale-Distribution"
+                },
+                {
+                    "name": "Public Safety",
+                    "link": "Public-Safety"
+                },
+                {
+                    "name": "Travel and Transportation",
+                    "link": "Travel-and-Transportation"
+                }
+
+
+            ]
+        },
+        {
+            "link_head": "Services",
+            "links" : [
+                {
+                    "name": "Overview",
+                    "link": "Overview"
+                },
+                {
+                    "name": "Audit",
+                    "link": "Audit"
+                },
+                {
+                    "name": "Assurance",
+                    "link": "Assurance"
+                },
+                {
+                    "name": "Strategy, Analytics & M&A",
+                    "link": "Strategy-Analytics-M&A"
+                },
+                {
+                    "name": "Enterprise, Technology & Performance",
+                    "link": "Enterprise-Technology-Performance"
+                },
+                {
+                    "name": "Human Capital",
+                    "link": "Human Capital"
+                },
+                {
+                    "name": "Core Business Operations",
+                    "link": "Core-Business-Operations"
+                },
+                {
+                    "name": "Customer & Marketing",
+                    "link": "Customer-Marketing"
+                },
+                {
+                    "name": "Mergers & Acquisitions",
+                    "link": "Mergers-Acquisitions"
+                },
+                {
+                    "name": "Infrastructure & Economic Advisory",
+                    "link": "Infrastructure-Economic-Advisory"
+                },
+                {
+                    "name": "Forensic",
+                    "link": "Forensic"
+                },
+                {
+                    "name": "Accounting & Internal Controls",
+                    "link": "Accounting-Internal-Controls"
+                },
+                {
+                    "name": "Cyber & Strategic Risk",
+                    "link": "Cyber-Strategic-Risk"
+                },
+                {
+                    "name": "Regulatory & Legal",
+                    "link": "Regulatory-Legal"
+                },
+                {
+                    "name": "Sustainability & Climate",
+                    "link": "Sustainability-Climate"
+                }
+            ]
+        },
+        {
+            "link_head": "Products",
+            "links" : [
+                {
+                    "name": "Cloud Infrastructure Overview",
+                    "link": "Cloud-Infrastructure-Overview"
+                },
+                {
+                    "name": "Analytics and BI",
+                    "link": "Analytics-and-BI"
+                },
+                {
+                    "name": "Cloud Regions",
+                    "link": "Cloud-Regions"
+                },
+                {
+                    "name": "Compute",
+                    "link": "Compute"
+                },
+                {
+                    "name": "AI and Machine Learning",
+                    "link": "AI and Machine Learning"
+                },
+                {
+                    "name": "Big Data",
+                    "link": "Big Data"
+                },
+                {
+                    "name": "Cloud RegiCompliance",
+                    "link": "Cloud-RegiCompliance"
+                },
+                {
+                    "name": "ComputeContainers and Functions",
+                    "link": "ComputeContainers-and-Functions"
+                },
+                {
+                    "name": "Cost Management and Governance</",
+                    "link": "Cost-Management-and-Governance</"
+                },
+                {
+                    "name": "Database Services",
+                    "link": "Database-Services"
+                },
+                {
+                    "name": "DevOps",
+                    "link": "DevOps"
+                },
+                {
+                    "name": "Hybrid Cloud",
+                    "link": "Hybrid-Cloud"
+                },
+                {
+                    "name": "Data Lake",
+                    "link": "Data-Lake"
+                },
+                {
+                    "name": "Developer Services",
+                    "link": "Developer-Services"
+                },
+                {
+                    "name": "Government Cloud",
+                    "link": "Government-Cloud"
+                },
+                {
+                    "name": "Integration",
+                    "link": "Integration"
+                },
+                {
+                    "name": "Networking",
+                    "link": "Networking"
+                },
+                {
+                    "name": "Observability and Management",
+                    "link": "Observability-and-Management"
+                },
+                {
+                    "name": "Applications Overview",
+                    "link": "Applications-Overview"
+                },
+                {
+                    "name": "Financial Management",
+                    "link": "Financial-Management"
+                },
+                {
+                    "name": "Project Management",
+                    "link": "Project-Management"
+                },
+                {
+                    "name": "Enterprise Performance Management",
+                    "link": "Enterprise-Performance-Management"
+                },
+                {
+                    "name": "Enterprise Resource Planning (ERP)",
+                    "link": "Enterprise Resource Planning (ERP)"
+                },
+                {
+                    "name": "Procurement",
+                    "link": "Procurement"
+                },
+                {
+                    "name": "Risk Management and Compliance",
+                    "link": "Risk Management and Compliance"
+                },
+                {
+                    "name": "Supply Chain & Manufacturing (SCM)",
+                    "link": "Supply-Chain-Manufacturing-(SCM)"
+                },
+                {
+                    "name": "Supply Chain Planning",
+                    "link": "Supply Chain Planning"
+                },
+                {
+                    "name": "Manufacturing",
+                    "link": "Manufacturing"
+                },
+                {
+                    "name": "Customer Experience (CX)",
+                    "link": "Customer-Experience-(CX)"
+                },
+                {
+                    "name": "Sales",
+                    "link": "Sales"
+                },
+                {
+                    "name": "Inventory Management",
+                    "link": "Inventory-Management"
+                },
+                {
+                    "name": "Maintenance",
+                    "link": "Maintenance"
+                },
+                {
+                    "name": "Marketing",
+                    "link": "Marketing"
+                },
+                {
+                    "name": "ServiceHuman Capital Management (HCM)",
+                    "link": "ServiceHuman-Capital-Management-(HCM)"
+                },
+                {
+                    "name": "Talent Management",
+                    "link": "Talent-Management"
+                },
+                {
+                    "name": "Payroll",
+                    "link": "Payroll"
+                },
+                {
+                    "name": "NetSuite",
+                    "link": "NetSuite"
+                },
+                {
+                    "name": "Workforce Management",
+                    "link": "Workforce-Management"
+                },
+                {
+                    "name": "Fusion Analytics",
+                    "link": "Fusion-Analytics"
+                },
+                {
+                    "name": "Java",
+                    "link": "Java"
+                },
+                {
+                    "name": "MySQL",
+                    "link": "MySQL"
+                },
+                {
+                    "name": "NoSQL",
+                    "link": "NoSQL"
+                },
+                {
+                    "name": "All Software",
+                    "link": "All-Software"
+                },
+                {
+                    "name": "Oracle Database",
+                    "link": "Oracle-Database"
+                },
+                {
+                    "name": "Linux",
+                    "link": "Linux"
+                },
+                {
+                    "name": "On-Premises Applications",
+                    "link": "On-Premises-Applications"
+                },
+                {
+                    "name": "Servers and Storage",
+                    "link": "Servers-and-Storage"
+                },
+                {
+                    "name": "Exadata",
+                    "link": "Exadata"
+                }
+            ]
+        },
+        {
+            "link_head": "Why Yexponent",
+            "links" : [
+                {
+                    "name": "What is Yexponent?",
+                    "link": "What-is-Yexponent?"
+                },
+                {
+                    "name": "One of the largest global networks",
+                    "link": "One-of-the-largest-global-networks"
+                },
+                {
+                    "name": "How Yexponent continues to innovate",
+                    "link": "How-Yexponent-continues-to-innovate"
+                },
+                {
+                    "name": "Yexponent is a trusted partner to millions",
+                    "link": "Yexponent-is-a-trusted-partner-to-millions"
+                },
+                {
+                    "name": "Case studies",
+                    "link": "Case-studies"
+                },
+                {
+                    "name": "Explore our Trust Hub",
+                    "link": "Explore-our-Trust-Hub"
+                },
+                {
+                    "name": "Webinars",
+                    "link": "Webinars"
+                },
+                {
+                    "name": "Industry analysts on Yexponent",
+                    "link": "Industry-analysts-on-Yexponent"
+                },
+                {
+                    "name": "Solution & product guides",
+                    "link": "Solution & product guides"
+                },
+                {
+                    "name": "Legal documentation",
+                    "link": "Legal-documentation"
+                },
+                {
+                    "name": "Explore our Resource Hub",
+                    "link": "Explore-our-Resource-Hub"
+                },
+                {
+                    "name": "Case studies",
+                    "link": "Case-studies"
+                },
+                {
+                    "name": "Industry analysts on Yexponent",
+                    "link": "Industry-analysts-on-Yexponent"
+                }
+            ]
+        },
+        {
+            "link_head": "Resources",
+            "links" : [
+                {
+                    "name": "Support",
+                    "link": "Support"
+                },
+                {
+                    "name": "Renew Support",
+                    "link": "Renew-Support"
+                },
+                {
+                    "name": "Oracle Support Rewards",
+                    "link": "Oracle-Support-Rewards"
+                },
+                {
+                    "name": "Critical Patch Updates",
+                    "link": "Critical-Patch-Updates"
+                },
+                {
+                    "name": "Community",
+                    "link": "Community"
+                },
+                {
+                    "name": "Critical Patch Updates",
+                    "link": "Critical-Patch-Updates"
+                },
+                {
+                    "name": "Cloud Console Login",
+                    "link": "Cloud-Console-Login"
+                },
+                {
+                    "name": "My Oracle Support Login",
+                    "link": "My-Oracle-Support-Login"
+                },
+                {
+                    "name": "Customer Success Services",
+                    "link": "Customer-Success-Services"
+                },
+                {
+                    "name": "Run and Operate Services",
+                    "link": "Run-and-Operate-Services"
+                },
+                {
+                    "name": "Implementation and Migration Services",
+                    "link": "Implementation-and-Migration-Services"
+                },
+                {
+                    "name": "Training and Certification",
+                    "link": "Training-and-Certification"
+                },
+                {
+                    "name": "Documentation",
+                    "link": "Documentation"
+                },
+                {
+                    "name": "Tutorials and Hands-On Labs",
+                    "link": "Tutorials-and-Hands-OnLabs"
+                },
+                {
+                    "name": "Reference Architectures",
+                    "link": "Reference-Architectures"
+                },
+                {
+                    "name": "Step-by-Step Videos",
+                    "link": "Step-by-Step-Videos"
+                },
+                {
+                    "name": "Customer Downloads",
+                    "link": "Customer-Downloads"
+                },
+                {
+                    "name": "Java Downloads",
+                    "link": "Java-Downloads"
+                },
+                {
+                    "name": "Developer Downloads",
+                    "link": "Developer-Downloads"
+                },
+                {
+                    "name": "Java Runtime Environment (JRE) Consumer Downloads",
+                    "link": "Java-Runtime-Environment-(JRE)-Consumer-Downloads"
+                }
+            ]   
+        }
+    ],
+    "bottom_links": [
+        {
+            "name": "Careers",
+            "link": "Careers"
+        },
+        {
+            "name": "Developers",
+            "link": "Developers"
+        },
+        {
+            "name": "Investors",
+            "link": "Investors"
+        },
+        {
+            "name": "Partners",
+            "link": "Partners"
+        },
+        {
+            "name": "Researchers",
+            "link": "Researchers"
+        },
+        {
+            "name": "Students and Educators",
+            "link": "Students and Educators"
+        }
+    ]
+}

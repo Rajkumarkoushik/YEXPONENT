@@ -1,0 +1,129 @@
+.col59{
+    display: flex;
+    flex-direction: column;
+}
+
+.careers-container{
+    background-image: linear-gradient(to right, #000523, #00164d, #001e79, #0023a5, #0020d1);
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    height: 80vh;
+}
+
+.flex-end{
+    display: flex;
+    height: 34px;
+    justify-content: row;
+    align-items: flex-end;
+    margin-top: 50px;
+}
+
+.btn4{
+    background-color: transparent;
+    border: 0px;
+    font-size: 20px;
+    color: rgb(255,255,255);
+    margin-right: 100px !important;
+    text-align: right;
+    width: 100vw;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.careers-heading{
+    text-align: center;
+    font-size: 65px;
+    font-weight: 700;
+    color: rgb(255,255,255);
+    width: 950px;
+    margin: 12px;
+    font-family: Montserrat, sans-serif;
+}
+
+.careers-para{
+    text-align: center;
+    font-size: 30px !important;
+    font-weight: 500;
+    color: rgb(255,255,255);
+    width: 1150px;
+    margin: 12px;
+    font-family: Montserrat, sans-serif;
+}
+
+.row99{
+    background-color: white;
+    width: 570px;
+    width: 70%;
+    display: flex;
+    height: 44px;
+    border-radius: 12px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.input{
+    background-color:transparent;
+    width: 320px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 0px;
+    border: none;
+    border-top-right-radius: none;
+    border-bottom-right-radius: none;
+    border-right: 0px solid rgb(158, 158, 158);
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.drop{
+    background-color: #fff;
+    width: 150px;
+    border: 0px;
+    margin: 0px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.career-btn{
+   width: 136px;
+   border: 0px;
+   background-color: rgb(241, 241, 42);
+   margin-left: 14px;
+   border-radius: 12px;
+   height: 40px;
+   margin: 16px;
+}
+
+.row00{
+    display: flex;
+}
+
+@media (max-width:700px){
+    .careers-container{
+        padding: 20px;
+    }
+    .careers-heading{
+        font-size: 30px;
+        width: 90%;
+        font-weight: bold;
+    }
+    .careers-para{
+        font-size: 20px;
+        width: 90%;
+    }
+    .input{
+        width:50%;
+        background: transparent;
+    }
+    .drop{
+        width: 50%;
+    }
+}

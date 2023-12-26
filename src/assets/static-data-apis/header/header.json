@@ -1,0 +1,923 @@
+{
+    "menu_tabs": [
+        {
+            "heading": "Services",
+            "tabs": [
+                {
+                    "name": "Audit & Assurance",
+                    "active": true,
+                    "links": [
+                        {  
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/audit-and-assurance/overview.png",
+                            "heading": "Overview",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/Services/Audit-&-Assurance/Overview"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/audit-and-assurance/assurance.png",
+                            "heading": "Assurance",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/Services/Audit-&-Assurance/Assurance"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/audit-and-assurance/audit.png",
+                            "heading": "Audit",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/Services/Audit-&-Assurance/Audit"
+                        }
+                    ]
+                },
+                {
+                    "name": "Consulting",
+                    "active": true,
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/consulting/Strategy, Analytics & M&A.png",
+                            "heading": "Strategy, Analytics & M&A",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/consulting/Core Business Operations.png",
+                            "heading": "Core Business Operations",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/consulting/enterprise,technology&performance.png",
+                            "heading": "Enterprise, Technology & Performance",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/consulting/Customer & Marketing.png",
+                            "heading": "Customer & Marketing",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/consulting/human capital.png",
+                            "heading": "Human Capital",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Financial Advisory",
+                    "active": true,
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/Financial Advisory/Mergers & Acquisitions.png",
+                            "heading": "Mergers & Acquisitions",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/Financial Advisory/Forensic.png",
+                            "heading": "Forensic",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/Financial Advisory/Infrastructure & Economic Advisory.png",
+                            "heading": "Infrastructure & Economic Advisory",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Risk Advisory",
+                    "active": true,
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/Risk Advisory/Accounting & Internal Controls.png",
+                            "heading": "Accounting & Internal Controls",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/Risk Advisory/Regulatory & Legal.png",
+                            "heading": "Regulatory & Legal",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/Risk Advisory/Cyber & Strategic Risk.png",
+                            "heading": "Cyber & Strategic Risk",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/Risk Advisory/Sustainability & Climate.png",
+                            "heading": "Sustainability & Climate",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Legal",
+                    "active": true,
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/legal/legal-advisory-services.png",
+                            "heading": "Legal Advisory Services",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/legal/legal-management-consulting.png",
+                            "heading": "Legal Management Consulting",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/legal/legal-managed-services.png",
+                            "heading": "Legal Managed Services",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tax",
+                    "active": true,
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/service.png",
+                            "heading": "Tax Transformation",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/service.png",
+                            "heading": "Outsourced Compliance",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/service.png",
+                            "heading": "Mobility, Payroll & Immigration",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/service.png",
+                            "heading": "Workforce, Technology & Analytics",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/service.png",
+                            "heading": "Advisory & Transactions",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/service.png",
+                            "heading": "Technology Consulting",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/service.png",
+                            "heading": "Rewards, Employment Tax & Share Plans",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/services/service.png",
+                            "heading": "Sustainability & Climate",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "heading": "Products",
+            "tabs": [
+                {
+                    "name": "Cloud Infrastructure",
+                    "active": true,
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/Cloud Infrastructure Overview.png",
+                            "heading": "Cloud Infrastructure Overview",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/AI and Machine Learning.png",
+                            "heading": "AI and Machine Learning",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/Analytics and BI.png",
+                            "heading": "Analytics and BI",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/big-data.png",
+                            "heading": "Big Data",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/Cloud-Regions.png",
+                            "heading": "Cloud Regions",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/cloud-regicompliance.png",
+                            "heading": "Cloud RegiCompliance",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/Compute.png",
+                            "heading": "Compute",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/computecontainers and functions.png",
+                            "heading": "ComputeContainers and Functions",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/cost-management-and-governance.png",
+                            "heading": "Cost Management and Governance",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/data-lake.png",
+                            "heading": "Data Lake",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/database-services.png",
+                            "heading": "Database Services",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/developer services.png",
+                            "heading": "Developer Services",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/devOps.png",
+                            "heading": "DevOps",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/government cloud.png",
+                            "heading": "Government Cloud",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/hybrid cloud.png",
+                            "heading": "Hybrid Cloud",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/integration.png",
+                            "heading": "Integration",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/Networking.png",
+                            "heading": "Networking",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Infrastructure/Observability and Management.png",
+                            "heading": "Observability and Management",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cloud Applications",
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Applications Overview.png",
+                            "heading": "Applications Overview",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Enterprise Resource Planning (ERP).png",
+                            "heading": "Enterprise Resource Planning (ERP)",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Financial Management.png",
+                            "heading": "Financial Management",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Procurement.png",
+                            "heading": "Procurement",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Project Management.png",
+                            "heading": "Project Management",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Risk Management and Compliance.png",
+                            "heading": "Risk Management and Compliance",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Enterprise Performance Management.png",
+                            "heading": "Enterprise Performance Management",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Supply Chain & Manufacturing (SCM).png",
+                            "heading": "Supply Chain & Manufacturing (SCM)",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Supply-Chain-Planing.png",
+                            "heading": "Supply Chain Planning",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Inventory-Management.png",
+                            "heading": "Inventory Management",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Manufacturing.png",
+                            "heading": "Manufacturing",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Maintanance.png",
+                            "heading": "Maintenance",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Customer-Experience.png",
+                            "heading": "Customer Experience (CX)",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Marketing.png",
+                            "heading": "Marketing",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Sales.png",
+                            "heading": "Sales",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Service Human Capital Management.png",
+                            "heading": "ServiceHuman Capital Management (HCM)",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Talent Managment.png",
+                            "heading": "Talent Management",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Workflow Managment.png",
+                            "heading": "Workforce Management",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Payrol.png",
+                            "heading": "Payroll",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/Fusion Analytics.png",
+                            "heading": "Fusion Analytics",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/Cloud Applications/netsuite.png",
+                            "heading": "NetSuite",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hardware and Software",
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/hardware and software/Java.png",
+                            "heading": "Java",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/hardware and software/Oracle Database.png",
+                            "heading": "Oracle Database",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/hardware and software/MySql.png",
+                            "heading": "MySQL",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/hardware and software/Linux.png",
+                            "heading": "Linux",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/hardware and software/NoSQL.jpg",
+                            "heading": "NoSQL",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/hardware and software/On-Premisis-Apllications.png",
+                            "heading": "On-Premises Applications",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/hardware and software/All Softwares.png",
+                            "heading": "All Software",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/hardware and software/Servers and Storage.png",
+                            "heading": "Servers and Storage",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/products/hardware and software/Exadata.png",
+                            "heading": "Exadata",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "heading": "Resources",
+            "tabs": [
+                {
+                    "name": "Support",
+                    "active": true,
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Support.png",
+                            "heading": "Support",
+                            "brief": "We invest in programs that support and develop talent in AI.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Community.png",
+                            "heading": "Community",
+                            "brief": "A particular community is a group of people who are similar in some way.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/renew Support.png",
+                            "heading": "Renew Support",
+                            "brief": "A particular community is a group of people who are similar in some way.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/critical patch updates.png",
+                            "heading": "Critical Patch Updates",
+                            "brief": "A particular community is a group of people who are similar in some way.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Oracle-Support-Rewards.png",
+                            "heading": "Oracle Support Rewards",
+                            "brief": "A particular community is a group of people who are similar in some way.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Cloud Console Login.png",
+                            "heading": "Cloud Console Login",
+                            "brief": "A particular community is a group of people who are similar in some way.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/My-Oracle-Support-Login.png",
+                            "heading": "My Oracle Support Login",
+                            "brief": "A particular community is a group of people who are similar in some way.",
+                            "link": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Services",
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Customer-Success-Services.png",
+                            "heading": "Customer Success Services",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Implementation-and-Migration-Services.png",
+                            "heading": "Implementation and Migration Services",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Run-and-Operate-Services.png",
+                            "heading": "Run and Operate Services",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Training-and-Certification.png",
+                            "heading": "Training and Certification",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Help Center",
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Documentation.png",
+                            "heading": "Documentation",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Reference-Architectures.png",
+                            "heading": "Reference Architectures",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Tutorials-and-Hands-On-Labs.png",
+                            "heading": "Tutorials and Hands-On Labs",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Step-by-Step-Videos.png",
+                            "heading": "Step-by-Step Videos",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Downloads",
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Customer-Downloads.png",
+                            "heading": "Customer Downloads",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Developer-Downloads.png",
+                            "heading": "Developer Downloads",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Java-Downloads.png",
+                            "heading": "Java Downloads",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Java-Runtime-Environment.png",
+                            "heading": "Java Runtime Environment (JRE) Consumer Downloads",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Working with Us",
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Contracts-and-Policies.png",
+                            "heading": "Contracts and Policies",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Trust-center.png",
+                            "heading": "Trust Center",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/invoicing.png",
+                            "heading": "Invoicing",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/resources/Financing.png",
+                            "heading": "Financing",
+                            "brief": "We invest in programs that support and develop talent in AI from non-AI backgrounds.",
+                            "link": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "heading": "Industries",
+            "tabs": [
+                {
+                    "name": "Industries",
+                    "active": true,
+                    "links": [
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/automotive.png",
+                            "heading": "Automotive",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/communications.png",
+                            "heading": "Communications",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/construction and engineering.png",
+                            "heading": "Construction and Engineering",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/consumer packaged goods.png",
+                            "heading": "Consumer Packaged Goods",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/education.png",
+                            "heading": "Education",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/energy and water.png",
+                            "heading": "Energy and Water",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/financial services.png",
+                            "heading": "Financial Services",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/industries.png",
+                            "heading": "Food and Beverage",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/government.png",
+                            "heading": "Government",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/health.png",
+                            "heading": "Health",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/high technology.png",
+                            "heading": "High Technology",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/hospitality.png",
+                            "heading": "Hospitality",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/industrial manufacturing.png",
+                            "heading": "Industrial Manufacturing",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/life sciences.png",
+                            "heading": "Life Sciences",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/media and entertainment.png",
+                            "heading": "Media and Entertainment",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/oil and gas.png",
+                            "heading": "Oil and Gas",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/Professional Services.png",
+                            "heading": "Professional Services",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/Public Safety.png",
+                            "heading": "Public Safety",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/Retail.png",
+                            "heading": "Retail",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/Travel and Transportation.png",
+                            "heading": "Travel and Transportation",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        },
+                        {
+                            "iconImage": "assets/static-data-apis/header/media-files/nav/industries/industries/Wholesale Distribution.png",
+                            "heading": "Wholesale Distribution",
+                            "brief": "Bring the power of generative AI directly into your own platform with our API.",
+                            "link": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "heading": "Why Yexponent",
+            "tabs": [
+                {
+                "name": "Why choose Yexponent",
+                "active": true,
+                "links": [
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "What is Yexponent?",
+                    "brief": "Learn what makes us different",
+                    "link": "/"
+                        },
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "One of the largest global networks",
+                    "brief": "Learn about our growing network",
+                    "link": "/"
+                        },
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "How Yexponent continues to innovate",
+                    "brief": "Explore our innovative technologies",
+                    "link": "/"
+                        },
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "Yexponent is a trusted partner to millions",
+                    "brief": "Learn what makes us trustworthy",
+                    "link": "/"
+                        }
+                    ]
+                },
+                {
+                "name": "Why trust Yexponent",
+                "active": true,
+                "links": [
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "Case studies",
+                    "brief": "Learn how we've helped others",
+                    "link": "/"
+                        },
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "Industry analysts on Yexponent",
+                    "brief": "Explore industry analysis of our products",
+                    "link": "/"
+                        },
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "Explore our Trust Hub",
+                    "brief": "Explore our trust & safety resources",
+                    "link": "/"
+                        },
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "Solution & product guides",
+                    "brief": "Explore our product documentation",
+                    "link": "/"
+                        },
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "Webinars",
+                    "brief": "Explore past & upcoming webinars",
+                    "link": "/"
+                        },
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "Legal documentation",
+                    "brief": "Explore our legal resources",
+                    "link": "/"
+                        }
+                    ]
+                },
+                {
+                "name": "Resource hub",
+                "active": true,
+                "links": [
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "Explore our Resource Hub",
+                    "brief": "Explore white papers, reports, & more",
+                    "link": "/"
+                        },
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "Industry analysts on Yexponent",
+                    "brief": "Explore industry analysis of our products",
+                    "link": "/"
+                        },
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "Case studies",
+                    "brief": "Learn how we've helped others",
+                    "link": "/"
+                        },
+                        {
+                    "iconImage": "assets/static-data-apis/header/media-files/nav/whyExponent/yexponent.png",
+                    "heading": "Webinars",
+                    "brief": "Explore past & upcoming webinars",
+                    "link": "/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
